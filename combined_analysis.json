@@ -1,0 +1,921 @@
+[
+  {
+    "game": "Counter-Strike 2",
+    "appid": 730,
+    "review_count": 1000,
+    "language_counts": {
+      "english": 407,
+      "russian": 196,
+      "schinese": 77,
+      "turkish": 49,
+      "tchinese": 13,
+      "french": 27,
+      "brazilian": 60,
+      "polish": 22,
+      "spanish": 45,
+      "ukrainian": 15,
+      "czech": 8,
+      "german": 31,
+      "japanese": 7,
+      "latam": 10,
+      "portuguese": 12,
+      "hungarian": 4,
+      "koreana": 4,
+      "danish": 1,
+      "romanian": 3,
+      "italian": 1,
+      "finnish": 1,
+      "norwegian": 1,
+      "bulgarian": 1,
+      "swedish": 2,
+      "vietnamese": 1,
+      "dutch": 1,
+      "greek": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "?": 702,
+        "E": 67,
+        "I": 231
+      },
+      "SN": {
+        "?": 786,
+        "N": 8,
+        "S": 206
+      },
+      "TF": {
+        "?": 773,
+        "F": 132,
+        "T": 95
+      },
+      "JP": {
+        "?": 930,
+        "J": 37,
+        "P": 33
+      }
+    },
+    "mbti_type_counts": {
+      "ESTP": 3,
+      "ISTJ": 6,
+      "ESFP": 2,
+      "ESTJ": 5,
+      "ISFP": 1,
+      "ISFJ": 1,
+      "ISTP": 1,
+      "INFP": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 988,
+        "ENV": 12
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 980,
+        "IMMERSIVE": 20
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 978,
+      "ENV-IMMERSIVE": 10,
+      "PLAYER-IMMERSIVE": 10,
+      "ENV-ACTIVE": 2
+    }
+  },
+  {
+    "game": "Dota 2",
+    "appid": 570,
+    "review_count": 1000,
+    "language_counts": {
+      "schinese": 88,
+      "russian": 494,
+      "english": 266,
+      "spanish": 53,
+      "turkish": 6,
+      "brazilian": 23,
+      "ukrainian": 18,
+      "polish": 5,
+      "german": 6,
+      "latam": 15,
+      "french": 4,
+      "czech": 3,
+      "thai": 6,
+      "danish": 1,
+      "vietnamese": 1,
+      "tchinese": 1,
+      "finnish": 1,
+      "italian": 5,
+      "indonesian": 1,
+      "hungarian": 1,
+      "norwegian": 1,
+      "swedish": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "?": 815,
+        "I": 148,
+        "E": 37
+      },
+      "SN": {
+        "N": 4,
+        "?": 810,
+        "S": 186
+      },
+      "TF": {
+        "F": 80,
+        "?": 853,
+        "T": 67
+      },
+      "JP": {
+        "?": 937,
+        "P": 32,
+        "J": 31
+      }
+    },
+    "mbti_type_counts": {
+      "ESTP": 4,
+      "ESTJ": 2,
+      "ISFJ": 1,
+      "ISTJ": 1,
+      "ISTP": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "ENV": 9,
+        "PLAYER": 991
+      },
+      "ACTIVE_IMMERSE": {
+        "IMMERSIVE": 10,
+        "ACTIVE": 990
+      }
+    },
+    "quadrant_counts": {
+      "ENV-IMMERSIVE": 6,
+      "PLAYER-ACTIVE": 987,
+      "ENV-ACTIVE": 3,
+      "PLAYER-IMMERSIVE": 4
+    }
+  },
+  {
+    "game": "ELDEN RING",
+    "appid": 1245620,
+    "review_count": 1000,
+    "language_counts": {
+      "english": 416,
+      "schinese": 184,
+      "brazilian": 75,
+      "russian": 78,
+      "spanish": 48,
+      "japanese": 13,
+      "polish": 16,
+      "french": 40,
+      "german": 35,
+      "italian": 10,
+      "latam": 6,
+      "turkish": 27,
+      "dutch": 2,
+      "czech": 1,
+      "ukrainian": 5,
+      "finnish": 1,
+      "koreana": 20,
+      "hungarian": 2,
+      "greek": 2,
+      "thai": 6,
+      "swedish": 3,
+      "tchinese": 6,
+      "portuguese": 3,
+      "vietnamese": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "I": 365,
+        "?": 607,
+        "E": 28
+      },
+      "SN": {
+        "S": 203,
+        "?": 686,
+        "N": 111
+      },
+      "TF": {
+        "F": 272,
+        "?": 695,
+        "T": 33
+      },
+      "JP": {
+        "?": 748,
+        "P": 197,
+        "J": 55
+      }
+    },
+    "mbti_type_counts": {
+      "ISTP": 5,
+      "ISFP": 8,
+      "ESFP": 2,
+      "ENTP": 1,
+      "ENFJ": 1,
+      "INTP": 3,
+      "ISFJ": 12,
+      "INFP": 19,
+      "ENFP": 3,
+      "INFJ": 1,
+      "ESTJ": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 912,
+        "ENV": 88
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 905,
+        "IMMERSIVE": 95
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 891,
+      "ENV-IMMERSIVE": 74,
+      "PLAYER-IMMERSIVE": 21,
+      "ENV-ACTIVE": 14
+    }
+  },
+  {
+    "game": "Wuthering Waves",
+    "appid": 3513350,
+    "review_count": 1000,
+    "language_counts": {
+      "english": 554,
+      "spanish": 61,
+      "turkish": 27,
+      "tchinese": 25,
+      "schinese": 23,
+      "german": 37,
+      "brazilian": 68,
+      "russian": 67,
+      "french": 28,
+      "ukrainian": 7,
+      "japanese": 23,
+      "koreana": 27,
+      "thai": 8,
+      "latam": 17,
+      "portuguese": 4,
+      "greek": 1,
+      "italian": 6,
+      "polish": 10,
+      "indonesian": 2,
+      "dutch": 3,
+      "czech": 2
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "I": 380,
+        "?": 609,
+        "E": 11
+      },
+      "SN": {
+        "?": 759,
+        "S": 192,
+        "N": 49
+      },
+      "TF": {
+        "?": 696,
+        "F": 244,
+        "T": 60
+      },
+      "JP": {
+        "P": 164,
+        "J": 51,
+        "?": 785
+      }
+    },
+    "mbti_type_counts": {
+      "ISFJ": 6,
+      "INFJ": 1,
+      "ISTJ": 2,
+      "ISFP": 14,
+      "ESTP": 1,
+      "ISTP": 5,
+      "INFP": 8,
+      "INTP": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 977,
+        "ENV": 23
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 978,
+        "IMMERSIVE": 22
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 972,
+      "ENV-IMMERSIVE": 17,
+      "PLAYER-IMMERSIVE": 5,
+      "ENV-ACTIVE": 6
+    }
+  },
+  {
+    "game": "三角洲行动",
+    "appid": 2507950,
+    "review_count": 1000,
+    "language_counts": {
+      "schinese": 409,
+      "english": 344,
+      "latam": 10,
+      "russian": 15,
+      "japanese": 17,
+      "thai": 11,
+      "koreana": 12,
+      "german": 34,
+      "tchinese": 7,
+      "czech": 3,
+      "french": 14,
+      "turkish": 27,
+      "spanish": 26,
+      "italian": 10,
+      "brazilian": 42,
+      "ukrainian": 2,
+      "polish": 3,
+      "finnish": 2,
+      "norwegian": 2,
+      "hungarian": 3,
+      "swedish": 1,
+      "danish": 1,
+      "dutch": 1,
+      "indonesian": 2,
+      "romanian": 1,
+      "portuguese": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "?": 713,
+        "E": 63,
+        "I": 224
+      },
+      "SN": {
+        "?": 777,
+        "S": 219,
+        "N": 4
+      },
+      "TF": {
+        "?": 708,
+        "T": 128,
+        "F": 164
+      },
+      "JP": {
+        "?": 836,
+        "J": 49,
+        "P": 115
+      }
+    },
+    "mbti_type_counts": {
+      "ESTJ": 4,
+      "ISFJ": 4,
+      "ISTP": 5,
+      "ISTJ": 2,
+      "ESTP": 1,
+      "ESFP": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 977,
+        "ENV": 23
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 950,
+        "IMMERSIVE": 50
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 932,
+      "ENV-ACTIVE": 18,
+      "ENV-IMMERSIVE": 5,
+      "PLAYER-IMMERSIVE": 45
+    }
+  },
+  {
+    "game": "PUBG: BATTLEGROUNDS",
+    "appid": 578080,
+    "review_count": 1000,
+    "language_counts": {
+      "english": 201,
+      "koreana": 54,
+      "russian": 139,
+      "turkish": 36,
+      "schinese": 448,
+      "spanish": 29,
+      "german": 6,
+      "brazilian": 26,
+      "ukrainian": 6,
+      "tchinese": 8,
+      "french": 11,
+      "polish": 5,
+      "swedish": 1,
+      "japanese": 3,
+      "thai": 5,
+      "latam": 8,
+      "vietnamese": 3,
+      "hungarian": 2,
+      "portuguese": 1,
+      "dutch": 1,
+      "norwegian": 2,
+      "greek": 1,
+      "italian": 2,
+      "indonesian": 1,
+      "czech": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "I": 133,
+        "?": 803,
+        "E": 64
+      },
+      "SN": {
+        "?": 788,
+        "S": 206,
+        "N": 6
+      },
+      "TF": {
+        "F": 129,
+        "?": 782,
+        "T": 89
+      },
+      "JP": {
+        "?": 905,
+        "J": 19,
+        "P": 76
+      }
+    },
+    "mbti_type_counts": {
+      "ISFP": 1,
+      "ISTJ": 1,
+      "ISTP": 2,
+      "ESFP": 3,
+      "ENTP": 1,
+      "ESFJ": 2
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 980,
+        "ENV": 20
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 932,
+        "IMMERSIVE": 68
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 919,
+      "ENV-IMMERSIVE": 7,
+      "PLAYER-IMMERSIVE": 61,
+      "ENV-ACTIVE": 13
+    }
+  },
+  {
+    "game": "Apex Legends",
+    "appid": 1172470,
+    "review_count": 1000,
+    "language_counts": {
+      "english": 409,
+      "schinese": 281,
+      "russian": 79,
+      "japanese": 26,
+      "koreana": 18,
+      "brazilian": 19,
+      "french": 39,
+      "italian": 5,
+      "turkish": 21,
+      "german": 18,
+      "spanish": 30,
+      "tchinese": 34,
+      "ukrainian": 1,
+      "latam": 8,
+      "hungarian": 1,
+      "swedish": 1,
+      "finnish": 1,
+      "czech": 1,
+      "thai": 4,
+      "portuguese": 1,
+      "polish": 2,
+      "dutch": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "?": 679,
+        "I": 233,
+        "E": 88
+      },
+      "SN": {
+        "?": 800,
+        "S": 192,
+        "N": 8
+      },
+      "TF": {
+        "T": 99,
+        "F": 194,
+        "?": 707
+      },
+      "JP": {
+        "P": 37,
+        "?": 880,
+        "J": 83
+      }
+    },
+    "mbti_type_counts": {
+      "ISTJ": 5,
+      "ISFJ": 3,
+      "ISFP": 2,
+      "ESTJ": 6,
+      "ESFP": 1,
+      "ISTP": 1,
+      "ESFJ": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 992,
+        "ENV": 8
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 974,
+        "IMMERSIVE": 26
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 974,
+      "ENV-IMMERSIVE": 8,
+      "PLAYER-IMMERSIVE": 18
+    }
+  },
+  {
+    "game": "永劫无间",
+    "appid": 1203220,
+    "review_count": 1000,
+    "language_counts": {
+      "schinese": 743,
+      "german": 6,
+      "tchinese": 26,
+      "russian": 39,
+      "turkish": 15,
+      "english": 110,
+      "french": 5,
+      "brazilian": 11,
+      "spanish": 6,
+      "thai": 17,
+      "japanese": 2,
+      "latam": 3,
+      "vietnamese": 7,
+      "polish": 4,
+      "hungarian": 1,
+      "ukrainian": 2,
+      "czech": 1,
+      "koreana": 2
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "?": 882,
+        "I": 71,
+        "E": 47
+      },
+      "SN": {
+        "S": 113,
+        "?": 883,
+        "N": 4
+      },
+      "TF": {
+        "T": 99,
+        "F": 257,
+        "?": 644
+      },
+      "JP": {
+        "?": 964,
+        "P": 22,
+        "J": 14
+      }
+    },
+    "mbti_type_counts": {
+      "ISFJ": 2,
+      "ISTJ": 1,
+      "ESTP": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 988,
+        "ENV": 12
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 972,
+        "IMMERSIVE": 28
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 963,
+      "PLAYER-IMMERSIVE": 25,
+      "ENV-ACTIVE": 9,
+      "ENV-IMMERSIVE": 3
+    }
+  },
+  {
+    "game": "艾尔登法环 黑夜君临",
+    "appid": 2622380,
+    "review_count": 1000,
+    "language_counts": {
+      "russian": 69,
+      "schinese": 383,
+      "japanese": 46,
+      "english": 349,
+      "spanish": 17,
+      "koreana": 14,
+      "french": 16,
+      "italian": 9,
+      "portuguese": 4,
+      "tchinese": 17,
+      "brazilian": 26,
+      "german": 14,
+      "thai": 5,
+      "polish": 7,
+      "turkish": 6,
+      "latam": 9,
+      "czech": 4,
+      "ukrainian": 2,
+      "finnish": 2,
+      "danish": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "?": 621,
+        "I": 269,
+        "E": 110
+      },
+      "SN": {
+        "?": 645,
+        "S": 340,
+        "N": 15
+      },
+      "TF": {
+        "?": 573,
+        "T": 176,
+        "F": 251
+      },
+      "JP": {
+        "?": 784,
+        "P": 143,
+        "J": 73
+      }
+    },
+    "mbti_type_counts": {
+      "ESTP": 13,
+      "ISFJ": 8,
+      "ESFJ": 2,
+      "ISTP": 8,
+      "ISFP": 5,
+      "ENFP": 1,
+      "ISTJ": 4,
+      "INFP": 1,
+      "ESFP": 4,
+      "ENTP": 1,
+      "ESTJ": 2
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 978,
+        "ENV": 22
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 906,
+        "IMMERSIVE": 94
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 900,
+      "PLAYER-IMMERSIVE": 78,
+      "ENV-IMMERSIVE": 16,
+      "ENV-ACTIVE": 6
+    }
+  },
+  {
+    "game": "Dark and Darker",
+    "appid": 2016590,
+    "review_count": 1000,
+    "language_counts": {
+      "english": 475,
+      "russian": 145,
+      "german": 25,
+      "schinese": 105,
+      "polish": 15,
+      "spanish": 57,
+      "koreana": 36,
+      "turkish": 18,
+      "tchinese": 20,
+      "brazilian": 23,
+      "french": 34,
+      "danish": 3,
+      "japanese": 12,
+      "ukrainian": 4,
+      "latam": 7,
+      "dutch": 1,
+      "portuguese": 3,
+      "czech": 7,
+      "thai": 1,
+      "vietnamese": 2,
+      "swedish": 3,
+      "indonesian": 1,
+      "italian": 1,
+      "greek": 1,
+      "bulgarian": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "I": 180,
+        "?": 796,
+        "E": 24
+      },
+      "SN": {
+        "?": 903,
+        "S": 95,
+        "N": 2
+      },
+      "TF": {
+        "?": 814,
+        "T": 38,
+        "F": 148
+      },
+      "JP": {
+        "?": 942,
+        "P": 42,
+        "J": 16
+      }
+    },
+    "mbti_type_counts": {
+      "ISFJ": 2,
+      "ISTP": 3,
+      "ESFJ": 1,
+      "ESTJ": 1,
+      "ESTP": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 997,
+        "ENV": 3
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 993,
+        "IMMERSIVE": 7
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 992,
+      "PLAYER-IMMERSIVE": 5,
+      "ENV-IMMERSIVE": 2,
+      "ENV-ACTIVE": 1
+    }
+  },
+  {
+    "game": "Monster Hunter Wilds",
+    "appid": 2246340,
+    "review_count": 1000,
+    "language_counts": {
+      "schinese": 255,
+      "english": 383,
+      "japanese": 178,
+      "koreana": 28,
+      "tchinese": 23,
+      "french": 25,
+      "german": 8,
+      "spanish": 33,
+      "brazilian": 31,
+      "russian": 7,
+      "latam": 10,
+      "italian": 6,
+      "thai": 4,
+      "norwegian": 1,
+      "indonesian": 1,
+      "finnish": 1,
+      "czech": 2,
+      "dutch": 2,
+      "swedish": 1,
+      "turkish": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "?": 651,
+        "I": 309,
+        "E": 40
+      },
+      "SN": {
+        "N": 69,
+        "?": 595,
+        "S": 336
+      },
+      "TF": {
+        "T": 204,
+        "?": 619,
+        "F": 177
+      },
+      "JP": {
+        "?": 818,
+        "P": 92,
+        "J": 90
+      }
+    },
+    "mbti_type_counts": {
+      "ISTP": 5,
+      "ISFP": 7,
+      "ISTJ": 5,
+      "ISFJ": 7,
+      "ENFP": 1,
+      "INTP": 1,
+      "ESTP": 2,
+      "INTJ": 1,
+      "INFJ": 1,
+      "ESTJ": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "ENV": 120,
+        "PLAYER": 880
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 905,
+        "IMMERSIVE": 95
+      }
+    },
+    "quadrant_counts": {
+      "ENV-ACTIVE": 56,
+      "PLAYER-ACTIVE": 849,
+      "ENV-IMMERSIVE": 64,
+      "PLAYER-IMMERSIVE": 31
+    }
+  },
+  {
+    "game": "Path of Exile 2",
+    "appid": 2694490,
+    "review_count": 1000,
+    "language_counts": {
+      "russian": 113,
+      "ukrainian": 8,
+      "english": 688,
+      "brazilian": 32,
+      "schinese": 6,
+      "spanish": 11,
+      "japanese": 30,
+      "turkish": 22,
+      "german": 34,
+      "polish": 14,
+      "french": 19,
+      "italian": 5,
+      "thai": 8,
+      "czech": 2,
+      "portuguese": 2,
+      "danish": 2,
+      "hungarian": 1,
+      "finnish": 1,
+      "latam": 1,
+      "dutch": 1
+    },
+    "mbti_axis_totals": {
+      "EI": {
+        "?": 510,
+        "I": 473,
+        "E": 17
+      },
+      "SN": {
+        "?": 667,
+        "S": 331,
+        "N": 2
+      },
+      "TF": {
+        "?": 611,
+        "T": 187,
+        "F": 202
+      },
+      "JP": {
+        "?": 771,
+        "J": 113,
+        "P": 116
+      }
+    },
+    "mbti_type_counts": {
+      "ISTJ": 14,
+      "INTJ": 1,
+      "ISFJ": 11,
+      "ISTP": 14,
+      "ISFP": 15,
+      "ESFP": 1,
+      "ESTJ": 1
+    },
+    "motivation_axis_counts": {
+      "PLAYER_ENV": {
+        "PLAYER": 996,
+        "ENV": 4
+      },
+      "ACTIVE_IMMERSE": {
+        "ACTIVE": 997,
+        "IMMERSIVE": 3
+      }
+    },
+    "quadrant_counts": {
+      "PLAYER-ACTIVE": 996,
+      "ENV-ACTIVE": 1,
+      "ENV-IMMERSIVE": 3
+    }
+  }
+]
