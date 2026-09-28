@@ -69,3 +69,11 @@ Mechanical check after editing: 280 lines, 192 markdown links, no unclosed links
 - **Structural evidence gaps (stated in the report):** no post-2024 time-use study of developers by C/E/D; no time-use data for any game discipline (game-side split given as directions only); no controlled study of game-production productivity; AI-disclosed-game reception studies share one review-based signal and do not identify a revenue effect; Steam sales shares are review-count estimates.
 - **Correlational anchors used as illustrations, not causes:** BLS software publishers +12.9%; GitHub push acceleration timing; Indeed posting rebound; Bain 83%/50%; Steam H1 2026 growth drivers; Rec Room.
 - **Projections in the report are labelled as such** (Haro 2027–28 crossing; SemiAnalysis 20%; the §六 G1–G5 predictions and the 2026–29 timeline; the AI-intensive scenario column), but a reader skimming tables could mistake them for measurements; the labels are in the row text and captions.
+
+---
+
+## Coordinator addendum (post-review read-through, 2026-09-28)
+
+| # | Location | Issue type | Before | After | Evidence |
+|---|---|---|---|---|---|
+| C1 | 结论, second paragraph | Internal consistency | "AI 原生体验是唯一可能属于'尚未'的地方" | "AI 原生体验是最可能属于'尚未'的地方" | Matches §六 ("AI 原生体验是最可能属于'尚未'的通道") and the three-way diagnosis, which does not rule out J-curve ("尚未") effects for incumbents. |
